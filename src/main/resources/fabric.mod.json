@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "equinox_client",
+  "version": "${version}",
+  "name": "Equinox Client",
+  "description": "The best client",
+  "authors": [
+    "Gamer221109"
+  ],
+  "contact": {
+    "repo": "https://github.com/GamDev4/Equinox-Client"
+  },
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.equinox.client.Client"
+    ],
+    "main": [
+      "org.equinox.EquinoxClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
