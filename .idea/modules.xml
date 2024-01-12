@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equinox_Client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Equinox_Client.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equinox_Client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Equinox_Client.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equinox_Dupe_Client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Equinox_Dupe_Client.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equinox_Dupe_Client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Equinox_Dupe_Client.test.iml" />
     </modules>
   </component>
 </project>

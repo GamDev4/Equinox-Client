@@ -11,6 +11,7 @@ import org.equinox.EquinoxClient;
 public class Flight {
     private static boolean isFlying = false;
     private static int delay = 0;
+
     public static void module(){
         ClientCommandRegistrationCallback.EVENT.register(((dispatcher, registryAccess) -> dispatcher.register(ClientCommandManager.literal("flight")
                 .executes(context -> {
@@ -40,13 +41,13 @@ public class Flight {
         if (delay < 5)
             delay++;
 
-        boolean shouldFly = isFlying && delay < 0;
+        boolean noVanillaKick = isFlying && delay < 0;
 
         if (delay >= 5) {
             delay = -25;
         }
 
-        if (shouldFly) {
+        if (noVanillaKick) {
 
             client.player.getAbilities().allowFlying = true;
             client.player.getAbilities().flying = true;
