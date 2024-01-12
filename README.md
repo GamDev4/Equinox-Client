@@ -32,6 +32,20 @@ Equinox client is a free utility client and open source for Minecraft 1.20.1 bui
 
 </details>
 
+<details>
+  <summary>What modules currently exist?</summary>
+
+> Flight, Speed, FlySpeed 
+
+</details>
+
+<details>
+  <summary>Are currently a good client?</summary>
+
+> The client is still in development, it has just started, there are many other much better options
+
+</details>
+
 ## Creators
 
 [![GitHub contributors](https://contrib.rocks/image?repo=gamdev4/Equinox-Client)](https://github.com/gamdev4/Equinox-Client/graphs/contributors)
