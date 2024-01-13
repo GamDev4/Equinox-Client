@@ -1,7 +1,7 @@
 # Equinox Client
 
 
-<a href="https://discord.gg/MrhZne5D4x"><img src="https://img.shields.io/discord/1195030135498354798?color=blue&logo=discord&logoColor=white" alt="Equinox client discord"/></a>
+<a href="https://discord.gg/WFk7Rbnqst"><img src="https://img.shields.io/discord/1195030135498354798?color=blue&logo=discord&logoColor=white" alt="Equinox client discord"/></a>
 <img src="https://img.shields.io/github/languages/code-size/gamdev4/equinox-client" alt="Code size"/>
 <img src="https://img.shields.io/github/repo-size/gamdev4/equinox-client" alt="Github repo size"/></a>
 <a href="https://github.com/gamdev4/equinox-client/graphs/contributors/"><img src="https://img.shields.io/github/contributors/gamdev4/equinox-client" alt="GitHub contributors"/></a>
