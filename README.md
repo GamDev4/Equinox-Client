@@ -42,7 +42,7 @@ Equinox client is a free utility client and open source for Minecraft 1.20.1 bui
 <details>
   <summary>What modules currently exist?</summary>
 
-> Flight, Speed, FlySpeed 
+> Flight, Speed, FlySpeed, ElytraFly, Pitch, Yaw
 
 </details>
 
