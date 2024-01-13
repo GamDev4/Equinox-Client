@@ -11,7 +11,7 @@
     "repo": "https://github.com/GamDev4/Equinox-Client"
   },
   "license": "LGPL-3.0",
-  "icon": "assets/icon.png",
+  "icon": "assets/equinox/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
@@ -23,7 +23,6 @@
   },
   "depends": {
     "fabricloader": ">=${loader_version}",
-    "fabric": "*",
     "minecraft": "${minecraft_version}"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "key.category.equinox.modules.movement": "Movement",
+  "key.movement.flight": "Flight",
+  "key.movement.elytrafly": "ElytraFly",
+  "key.movement.flyspeed": "FlySpeed",
+  "key.movement.speed": "Speed",
+
+  "key.category.equinox.modules.player": "Player",
+  "key.movement.pitch": "Pitch",
+  "key.movement.yaw": "Yaw"
+}

@@ -3,15 +3,15 @@
   "id": "equinox_client",
   "version": "1.0.0-SNAPSHOT",
   "name": "Equinox Client",
-  "description": "The best client",
+  "description": "Client in development",
   "authors": [
     "Gamer221109"
   ],
   "contact": {
     "repo": "https://github.com/GamDev4/Equinox-Client"
   },
-  "license": "MIT",
-  "icon": "assets/icon.png",
+  "license": "LGPL-3.0",
+  "icon": "assets/equinox/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
