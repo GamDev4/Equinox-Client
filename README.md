@@ -46,6 +46,8 @@ Equinox client is a free utility client and open source for Minecraft 1.20.1 bui
 
 </details>
 
-## Creators
+## Contributors
 
 [![GitHub contributors](https://contrib.rocks/image?repo=gamdev4/Equinox-Client)](https://github.com/gamdev4/Equinox-Client/graphs/contributors)
+
+If you have any questions, please check out the FAQ in our [discord](https://discord.gg/MrhZne5D4x)
